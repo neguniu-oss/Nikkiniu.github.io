@@ -18,8 +18,6 @@ Climate Economics | Agricultural Economics | Labor Economics
 ## Links
 
 - [Download CV](https://neguniu-oss.github.io/Nikkiniu.github.io/files/Nikkiniu-CV.pdf)
-- [GitHub](https://github.com/neguniu-oss)
 - [Google Scholar](https://scholar.google.com/citations?user=G1TqrEkAAAAJ&hl=en)
 - [Bilibili](https://space.bilibili.com/363796558)
 - [Xiaohongshu](https://www.xiaohongshu.com/user/profile/6960791700000000190365db)
-- [Email](mailto:neguniu@gmail.com)
