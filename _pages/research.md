@@ -10,26 +10,7 @@ author_profile: true
 
 *Journal of Forecasting*, 45(3), 1036–1051.
 
-[View publication](https://onlinelibrary.wiley.com/doi/10.1002/for.70072
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        )
-
+[View publication](https://onlinelibrary.wiley.com/doi/10.1002/for.70072)
 ## Working Papers
 
 ### Education and Fertility Intentions
