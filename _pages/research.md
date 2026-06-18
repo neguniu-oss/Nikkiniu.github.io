@@ -10,7 +10,25 @@ author_profile: true
 
 *Journal of Forecasting*, 45(3), 1036–1051.
 
-[View publication](https://onlinelibrary.wiley.com/doi/10.1002/for.70072)
+[View publication](https://onlinelibrary.wiley.com/doi/10.1002/for.70072
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        )
 
 ## Working Papers
 
@@ -22,18 +40,14 @@ Under review.
 
 ### Climate Vulnerability Index
 
-Briefly describe this research project here.
 
 ### Climate Policy and Labor Markets
 
-Briefly describe this research project here.
 
-## Presentations
+
+## Academic Activities
 
 ### Peking University Doctoral Forum
 
-Presentation information and date.
 
-### Conference Name
 
-Presentation information and date.
