@@ -5,11 +5,5 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "CV"
-    url: "https://neguniu-oss.github.io/Nikkiniu.github.io/files/Nikkiniu-CV.pdf"
-
-  - title: "Blog"
-    url: /year-archive/
-
   - title: "Contact"
     url: /contact/
